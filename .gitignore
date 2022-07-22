@@ -3,3 +3,5 @@
 /media
 
 # files
+**/__pycache__/
+*.pyc
