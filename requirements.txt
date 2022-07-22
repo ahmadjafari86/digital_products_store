@@ -1,8 +1,0 @@
-# Django
-Django==3.2
-djangorestframework==3.13.1
-
-# photo and image
-Pillow==9.2.0
-
-# Database
