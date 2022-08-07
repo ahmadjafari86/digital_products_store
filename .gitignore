@@ -5,4 +5,7 @@
 # files
 **/__pycache__/
 *.pyc
+local_settings.py
+
+# database
 db.sqlite3
